@@ -1,4 +1,4 @@
-![IdentyQuest Banner](banner.png)
+![IdentyQuest Banner](assets/images/banner.png)
 
 
 # IdentyQuest
